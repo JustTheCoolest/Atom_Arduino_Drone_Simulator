@@ -2,6 +2,11 @@
 
 ## Contribution guidelines
 
+```bash
+git submodule init
+git submodule update
+```
+
 1) Clone (via vscode)
 2) Navigate to branch
 3) Run Prep/calls.cpp
